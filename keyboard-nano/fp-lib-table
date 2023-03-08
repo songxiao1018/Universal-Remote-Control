@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "my_libmod")(type "KiCad")(uri "${KIPRJMOD}/lib/my_pcbmode.pretty")(options "")(descr ""))
+  (lib (name "my_pcbmode")(type "KiCad")(uri "${KIPRJMOD}/lib/my_pcbmode.pretty")(options "")(descr ""))
+)
